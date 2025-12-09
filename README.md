@@ -12,6 +12,17 @@ _A list of my commonly used Git commands_
 
 -------------------------------------------
 
+### Useful Commit Commands
+
+| Command | Description |
+| ------- | ----------- |
+| `git add .` | Add all new and changed files to the staging area |
+| `git commit -m "[commit message]"` | Commit changes |
+| `git push` | Push changes to remote repository (remembered branch) |
+
+-----------------------------------------------
+
+
 ### Getting & Creating Projects
 
 | Command | Description |
@@ -29,6 +40,7 @@ _A list of my commonly used Git commands_
 | `git commit -m "[commit message]"` | Commit changes |
 | `git rm -r [file-name.txt]` | Remove a file (or folder) |
 | `git remote -v` | View the remote repository of the currently working file or directory |
+
 
 ### Branching & Merging
 
